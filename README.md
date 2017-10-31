@@ -1,3 +1,3 @@
 # FlatBCompiler
 
-Compiler for the FlatB language.
+Compiler for the FlatB language, written in C.
