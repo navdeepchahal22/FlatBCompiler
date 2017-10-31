@@ -1,5 +1,4 @@
 # FlatBCompiler
 
-Compiler for the FlatB language.
-
 Course: Compilers
+Compiler for the FlatB language, written in C.
